@@ -1,0 +1,35 @@
+body{
+  margin:0;
+  text-align: center;
+}
+h1{
+  width: 20%;
+  margin: 0 auto;
+  font-family:papyrus,fantasy;
+
+}
+p{
+  font-family:licida console,monospace;
+}
+.Top-container{
+  background-color: #AFEEEE;
+  position: relative;
+  padding-top:100px;
+
+}
+.Middle-container{
+
+}
+.Bottom-container{
+
+}
+.top{
+position: absolute;
+right: 350px;
+top:50px;
+}
+.Bottom{
+position: absolute;
+bottom: 300px;
+left: 300px;
+}
